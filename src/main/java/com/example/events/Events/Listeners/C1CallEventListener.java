@@ -1,6 +1,4 @@
 package com.example.events.Events.Listeners;
-
-
 import com.example.events.Events.Publishers.C1CallEventPublisher;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.ApplicationListener;
